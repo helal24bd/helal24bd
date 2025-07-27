@@ -5,15 +5,14 @@
 
 ---
 
-## 🚀 Featured Project
+## 💼 My Featured Projects
 
-### 🔗 [HTML Starter Kit](https://github.com/helal24bd/html-starter-kit)
-
-> A modern and responsive starter template for beginners and developers.  
-> Includes clean HTML, basic CSS, and JavaScript — ready to build and customize.
-
-🖼️ **Preview**:  
-![HTML Starter Kit](https://github.com/helal24bd/html-starter-kit/raw/main/preview.png)
+| Template Name                     | Live Preview                                                                 | GitHub Repo                                                                 |
+|----------------------------------|------------------------------------------------------------------------------|------------------------------------------------------------------------------|
+| 🚀 HTML Starter Kit              | [View Live](https://helal24bd.github.io/html-starter-kit/)                  | [GitHub](https://github.com/helal24bd/html-starter-kit)                     |
+| 🎨 Modern Portfolio Template     | [View Live](https://helal24bd.github.io/modern-portfolio/) *(if deployed)* | [GitHub](https://github.com/helal24bd/modern-portfolio) *(if uploaded)*     |
+| ⏳ Coming Soon Page *(Coming)*   | Coming Soon                                                                 | Coming Soon                                                                 |
+| ❌ 404 Error Page *(Coming)*     | Coming Soon                                                                 | Coming Soon                                                                 |
 
 ---
 
@@ -21,8 +20,10 @@
 
 - 🌍 [Facebook](https://www.facebook.com/helaluddin24hb)
 - 💼 [LinkedIn](https://www.linkedin.com/in/helalbd/)
-- 🛒 [Gumroad](https://helalbd.gumroad.com)
+- 🛒 [Gumroad Store](https://helalbd.gumroad.com)
+- 🧑‍💻 [Fiverr Profile](https://www.fiverr.com/users/helal683bd)
 
 ---
 
-> 💡 Always learning, always building.
+> 💡 Always learning, always building.  
+> 📥 Need a custom landing page? Let’s connect!
