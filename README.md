@@ -10,7 +10,7 @@
 | Template Name                     | Live Preview                                                                 | GitHub Repo                                                                 |
 |----------------------------------|------------------------------------------------------------------------------|------------------------------------------------------------------------------|
 | 🚀 HTML Starter Kit              | [View Live](https://helal24bd.github.io/html-starter-kit/)                  | [GitHub](https://github.com/helal24bd/html-starter-kit)                     |
-| 🎨 Modern Portfolio Template     | [View Live](https://helal24bd.github.io/modern-portfolio/) *(if deployed)* | [GitHub](https://github.com/helal24bd/modern-portfolio) *(if uploaded)*     |
+| 🎨 Modern Portfolio Template     | [View Live](https://helal24bd.github.io/service-landing-template/) *(if deployed)* | [GitHub](https://github.com/helal24bd/service-landing-template) *(if uploaded)*     |
 | ⏳ Coming Soon Page *(Coming)*   | Coming Soon                                                                 | Coming Soon                                                                 |
 | ❌ 404 Error Page *(Coming)*     | Coming Soon                                                                 | Coming Soon                                                                 |
 
