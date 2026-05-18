@@ -1,38 +1,64 @@
 # 👋 Hi, I'm Helal Uddin
 
-### Front-End Developer • UI Designer • eCommerce & SaaS Builder
+### Full-Stack Web Developer • eCommerce & SaaS Builder • Digital Marketing Specialist
 
-I build modern, high-converting, and responsive websites focused on clean UI, smooth user experience, and real business results.
-Currently working on scalable eCommerce platforms, seller dashboards, courier integrations, and marketing automation systems.
+I build modern, scalable, and conversion-focused web applications with clean UI, powerful backend systems, and real-world business automation.
 
----
-
-## 🚀 Live Projects
-
-| Project                   | Live Demo                   |
-| ------------------------- | --------------------------- |
-| 🛍️ Bhuiyan Apparels      | https://bhuiyanapparels.com |
-| 🐶 WoofyLuxe Store        | https://woofyluxe.com       |
-| 👗 Mukto Shop BD          | https://muktoshopbd.com     |
-| 💼 SellerOS SaaS Platform | Coming Soon                 |
+Currently focused on developing complete eCommerce ecosystems, multi-vendor SaaS platforms, courier integrations, tracking systems, and marketing automation solutions.
 
 ---
 
-## 🚀 What I Do
+# 🚀 Live Projects
 
-* ⚡ Responsive Website Development
-* 🛍️ eCommerce Website Design
-* 🎯 Landing Page Design
-* 📊 Facebook & TikTok Pixel Integration
-* 🚚 Courier API Integration
-* 🧠 Dashboard & SaaS UI Development
-* 🔥 Conversion-Focused UI/UX Design
+| Project                       | Live Demo                   |
+| ----------------------------- | --------------------------- |
+| 🛍️ Bhuiyan Apparels          | https://bhuiyanapparels.com |
+| 🐶 WoofyLuxe Store            | https://woofyluxe.com       |
+| 👗 Mukto Shop BD              | https://muktoshopbd.com     |
+| 💼 SellerOS Multi-Vendor SaaS | Coming Soon                 |
 
 ---
 
-## 🛠️ Tech Stack
+# 💼 What I Build
 
-### Frontend
+### 🛒 eCommerce Solutions
+
+* Complete Laravel eCommerce Systems
+* Multi-Vendor Platforms
+* Dynamic Product Management
+* Order & Customer Management
+* Checkout & Payment Systems
+
+### 🚚 Courier & Logistics Automation
+
+* Steadfast Integration
+* Pathao Courier API
+* REDX Integration
+* CarryBee Integration
+* Custom Courier API Support
+* Fraud Checker System
+
+### 📊 Marketing & Tracking Systems
+
+* Facebook Pixel + Conversion API
+* TikTok Pixel Integration
+* Google Tag Manager (GTM)
+* Google Analytics 4
+* Event Tracking Automation
+
+### 🎨 Frontend & UI/UX
+
+* Responsive Web Design
+* Landing Page Development
+* SaaS Dashboard UI
+* Conversion-Focused Interfaces
+* Modern Admin Panels
+
+---
+
+# 🛠️ Tech Stack
+
+## Frontend
 
 * HTML5
 * CSS3
@@ -40,54 +66,73 @@ Currently working on scalable eCommerce platforms, seller dashboards, courier in
 * Bootstrap
 * Tailwind CSS
 
-### Backend & CMS
+## Backend
 
 * Laravel
 * PHP
 * MySQL
+* REST API
+
+## CMS & Platforms
+
 * WordPress
+* WooCommerce
+* Shopify
 
-### Marketing & Tracking
+## Marketing & Analytics
 
-* Google Tag Manager (GTM)
 * Facebook Pixel + CAPI
 * TikTok Pixel
+* GTM
 * Google Analytics
 
 ---
 
-## 🌐 Connect With Me
+# 🔥 Current Focus
 
-* 🌍 Facebook
-  https://www.facebook.com/helaluddin24hb
-
-* 💼 LinkedIn
-  https://www.linkedin.com/in/helalbd/
-
-* 🛒 Gumroad Store
-  https://helalbd.gumroad.com
-
-* 🧑‍💻 Fiverr Profile
-  https://www.fiverr.com/users/helal683bd
-
-* 💻 GitHub
-  https://github.com/helal24bd
-
----
-
-## 🎯 Current Focus
-
-Building a complete multi-vendor SellerOS platform with:
+Building **SellerOS**, a complete multi-vendor SaaS platform featuring:
 
 * Seller Dashboard
-* Order Management
-* Courier Integrations
-* Fraud Checker
+* Order Management System
+* Courier Automation
+* Fraud Detection
 * Pixel & Conversion API
-* Modern SaaS UI
 * Marketing Automation
+* SaaS Admin Panel
+* Analytics & Reporting
+* Dynamic Storefront Builder
 
 ---
 
-> 💡 Clean code. Modern design. Real business impact.
-> 🚀 Always learning. Always building.
+# 🌐 Connect With Me
+
+### 💻 GitHub
+
+https://github.com/helal24bd
+
+### 🌍 Facebook
+
+https://www.facebook.com/helaluddin24hb
+
+### 💼 LinkedIn
+
+https://www.linkedin.com/in/helalbd/
+
+### 🛒 Gumroad
+
+https://helalbd.gumroad.com
+
+### 🧑‍💻 Fiverr
+
+https://www.fiverr.com/users/helal683bd
+
+---
+
+# 🎯 Vision
+
+Building scalable digital products that help businesses grow faster through automation, modern design, and smart technology.
+
+---
+
+> 💡 Clean Code • Modern UI • Real Business Solutions
+> 🚀 Always Learning • Always Building
