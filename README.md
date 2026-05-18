@@ -1,27 +1,93 @@
 # 👋 Hi, I'm Helal Uddin
 
-🎯 A passionate front-end developer focused on building clean and conversion-focused landing pages.  
-🛠️ I work with **HTML**, **CSS**, **JavaScript** and modern UI libraries to build fast & responsive websites.
+### Front-End Developer • UI Designer • eCommerce & SaaS Builder
+
+I build modern, high-converting, and responsive websites focused on clean UI, smooth user experience, and real business results.
+Currently working on scalable eCommerce platforms, seller dashboards, courier integrations, and marketing automation systems.
 
 ---
 
-## 💼 My Featured Projects
+## 🚀 Live Projects
 
-| Template Name               | Live Preview                                                          | GitHub Repo                                                            |
-|----------------------------|------------------------------------------------------------------------|------------------------------------------------------------------------|
-| 🚀 HTML Starter Kit        | [View Live](https://helal24bd.github.io/html-starter-kit/)            | [GitHub](https://github.com/helal24bd/html-starter-kit)               |
-| 🎨 Modern Portfolio Template | [View Live](https://helal24bd.github.io/modern-portfolio-template/)   | [GitHub](https://github.com/helal24bd/modern-portfolio-template)      |
-
----
-
-## 🌐 Connect with Me
-
-- 🌍 [Facebook](https://www.facebook.com/helaluddin24hb)
-- 💼 [LinkedIn](https://www.linkedin.com/in/helalbd/)
-- 🛒 [Gumroad Store](https://helalbd.gumroad.com)
-- 🧑‍💻 [Fiverr Profile](https://www.fiverr.com/users/helal683bd)
+| Project                   | Live Demo                   |
+| ------------------------- | --------------------------- |
+| 🛍️ Bhuiyan Apparels      | https://bhuiyanapparels.com |
+| 🐶 WoofyLuxe Store        | https://woofyluxe.com       |
+| 👗 Mukto Shop BD          | https://muktoshopbd.com     |
+| 💼 SellerOS SaaS Platform | Coming Soon                 |
 
 ---
 
-> 💡 Always learning, always building.  
-> 📥 Need a custom landing page? Let’s connect!
+## 🚀 What I Do
+
+* ⚡ Responsive Website Development
+* 🛍️ eCommerce Website Design
+* 🎯 Landing Page Design
+* 📊 Facebook & TikTok Pixel Integration
+* 🚚 Courier API Integration
+* 🧠 Dashboard & SaaS UI Development
+* 🔥 Conversion-Focused UI/UX Design
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+* HTML5
+* CSS3
+* JavaScript
+* Bootstrap
+* Tailwind CSS
+
+### Backend & CMS
+
+* Laravel
+* PHP
+* MySQL
+* WordPress
+
+### Marketing & Tracking
+
+* Google Tag Manager (GTM)
+* Facebook Pixel + CAPI
+* TikTok Pixel
+* Google Analytics
+
+---
+
+## 🌐 Connect With Me
+
+* 🌍 Facebook
+  https://www.facebook.com/helaluddin24hb
+
+* 💼 LinkedIn
+  https://www.linkedin.com/in/helalbd/
+
+* 🛒 Gumroad Store
+  https://helalbd.gumroad.com
+
+* 🧑‍💻 Fiverr Profile
+  https://www.fiverr.com/users/helal683bd
+
+* 💻 GitHub
+  https://github.com/helal24bd
+
+---
+
+## 🎯 Current Focus
+
+Building a complete multi-vendor SellerOS platform with:
+
+* Seller Dashboard
+* Order Management
+* Courier Integrations
+* Fraud Checker
+* Pixel & Conversion API
+* Modern SaaS UI
+* Marketing Automation
+
+---
+
+> 💡 Clean code. Modern design. Real business impact.
+> 🚀 Always learning. Always building.
