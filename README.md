@@ -10,11 +10,11 @@ Currently focused on developing complete eCommerce ecosystems, multi-vendor SaaS
 
 # 🚀 Live Projects
 
-| Project                       | Live Demo                   |
+| Project                        | Live Demo                  |
 | ----------------------------- | --------------------------- |
-| 🛍️ Bhuiyan Apparels          | https://bhuiyanapparels.com |
+| 🛍️ Bhuiyan Apparels           | https://bhuiyanapparels.com |
 | 🐶 WoofyLuxe Store            | https://woofyluxe.com       |
-| 👗 Mukto Shop BD              | https://muktoshopbd.com     |
+| 👗 Minha Fashion House        | https://www.minhafashionhouse.com/    |
 | 💼 SellerOS Multi-Vendor SaaS | Coming Soon                 |
 
 ---
