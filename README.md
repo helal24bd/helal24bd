@@ -15,6 +15,7 @@ I build modern, scalable, conversion-focused web applications and business autom
 - 🛍️ [Bhuiyan Apparels](https://bhuiyanapparels.com)
 - 🐶 [WoofyLuxe Store](https://woofyluxe.com)
 - 👗 [Minha Fashion House](https://www.minhafashionhouse.com/)
+-  👕 [Outfit Galaxy BD](https://outfitgalaxybd.com/)
 - 💼 **SellerOS** — Multi-Vendor SaaS — Coming Soon
 
 ### 🛠️ Tech Stack
